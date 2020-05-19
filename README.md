@@ -24,8 +24,11 @@ Front-end GoBarber
 
 Essa aplicação até o momento foi criado com as seguintues tecnologias:
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- 💹 **Node Js** — A web framework for Node Js
+-TypeScript
+-React.js
+-Node.js
+-TypeORM
+-Docker
 
   
 
