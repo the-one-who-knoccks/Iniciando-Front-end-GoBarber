@@ -1,12 +1,10 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
 <br>
 Front-end GoBarber
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Front-end inicial da aplicação GoBarber. Sistema de cadastro de prestadores de serviços de barbearia.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -27,7 +25,6 @@ Front-end GoBarber
 This app features all the latest tools and practices in mobile development!
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
 
 ## Getting started
