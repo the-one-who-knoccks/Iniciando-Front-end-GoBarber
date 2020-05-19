@@ -28,7 +28,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-Describe here the way to use/install your project
+  Describe here the way to use/install your project
 
 
 ## License
