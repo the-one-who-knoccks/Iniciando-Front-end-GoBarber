@@ -15,7 +15,7 @@ Front-end GoBarber
 [//]: # (Add your gifs/images here:)
 <div>
   <img src="/prev/gif-prev.gif" alt="demo" height="425">
-</div>
+</div> 
 
 <hr />
 
@@ -28,9 +28,9 @@ Essa aplicação até o momento foi criado com as seguintues tecnologias:
 -React.js
 -Node.js
 -TypeORM
--Docker
+-Docker 
 
-  
+      
 
 ## License
 
