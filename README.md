@@ -24,7 +24,7 @@ Front-end GoBarber
 
 Essa aplicação até o momento foi criado com as seguintues tecnologias:
 
--TypeScript
+-TypeScript  
 -React.js
 -Node.js
 -TypeORM
