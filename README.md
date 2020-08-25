@@ -31,7 +31,7 @@ Essa aplicação até o momento foi criado com as seguintues tecnologias:
 -Docker 
 
       
-
+   
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
