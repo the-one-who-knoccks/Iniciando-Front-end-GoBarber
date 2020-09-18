@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>
+<br>  
 <br>
 Front-end GoBarber 
 </h1>    
