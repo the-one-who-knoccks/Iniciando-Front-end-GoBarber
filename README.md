@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>     
 <br>
-Front-end GoBarber 
+Front-end GoBarber  
 </h1>                 
 
 <p align="center">Front-end inicial da aplicação GoBarber. Sistema de cadastro de prestadores de serviços de barbearia.</p>
