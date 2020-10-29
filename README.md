@@ -22,7 +22,7 @@ Front-end GoBarber
 
 
 ## Features
-[//]: # 
+[//]: #  
 
 Essa aplicação até o momento foi criado com as seguintues tecnologias:
 
