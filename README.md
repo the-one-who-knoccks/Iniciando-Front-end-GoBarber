@@ -17,7 +17,7 @@ Front-end GoBarber
   <img src="/prev/gif-prev.gif" alt="demo" height="425">
 </div> 
 
-<hr />
+<hr /> 
 
 
 
